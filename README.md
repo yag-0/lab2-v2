@@ -29,7 +29,7 @@
   cd lab2-v2
 
 3.Запуск:
-  python 2laba.py
+  python code.py
 
 ### Виконані завдання
 
