@@ -1,8 +1,8 @@
 a = input("a=")
 print (a)
 
-b = input("a=")
+b = input("b=")
 print (b)
 
-c = input("a=")
+c = input("c=")
 print (c)
